@@ -1,0 +1,11 @@
+*.mat
+!BucketsMarkov/*.mat
+*.bak
+*.asv
+OldFigures/
+Old Models/
+JournalFigures/
+development_tests/
+subplotplus_demo.m
+BucketsMarkov/buggyResults/
+BucketsMarkov/Old_data/

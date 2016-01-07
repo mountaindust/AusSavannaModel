@@ -1,0 +1,6 @@
+General	Estimate from texture
+layer	name	min depth	max depth	thickness	air dry	wilting	field	saturated	infiltration	BD	Sand	Silt	Clay
+1	A_Evap	0	0.1	0.1	2.78	2.78	13.05	30.65	53.344	1.65625	95	0	5	
+2	B_G1	0.1	0.2	0.1		11.78	23.8	37.9	32.119	1.4375	70	0	30	
+3	B_T1s	0.2	0.5	0.3		35.34	71.4	113.7	32.119	1.4375	70	0	30	
+4	B_T1	0.5	1.1	0.6		70.68	142.8	227.4	32.119	1.4375	70	0	30	
