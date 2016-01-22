@@ -1,6 +1,8 @@
 # Australian Savanna Water Resource Model
 Savanna model introduced in Strickland, Liedloff, Cook, 
-Dangelmayr, and Shipman (2016), Journal of Ecology. Functionality includes:
+Dangelmayr, and Shipman (2016), Journal of Ecology.  
+The release corresponding to the journal publication is tracked by [![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.45106.svg)](http://dx.doi.org/10.5281/zenodo.45106).  
+Functionality includes:
 - Water resource dynamics based on soil properties and daily rainfall history
 - Stand size-structure dynamics using (long) vector of basal area size classes
 - Continuous-time solution of underlying mathematical model available
